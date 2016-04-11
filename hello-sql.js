@@ -1,3 +1,4 @@
+// https://keyholesoftware.com/2016/04/04/seriate-the-glue-between-sql-server-and-node-js/
 // http://developer.leankit.com/painless-sql-server-with-nodejs-and-seriate/
 // https://www.npmjs.com/package/seriate
 
