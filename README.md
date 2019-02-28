@@ -3,7 +3,7 @@ Using The seriate NPM package to connect to a Microsoft SQL Express database ver
 
 ## Getting started. ##
 
-Run `npm install seriate' to get the seriate package. 
+Run `npm install seriate` to get the seriate package. 
 
 [Download][1] and run the Northwind database script.
 
